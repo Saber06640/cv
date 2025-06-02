@@ -1,0 +1,26 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "projects": "Projects",
+    "cv": "Resume",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Saber Bajjou",
+    "subtitle": "Electrical & Embedded Systems Engineer",
+    "contactBtn": "Contact Me",
+    "projectsBtn": "View My Projects"
+  },
+  "contact": {
+    "title": "Contact Me",
+    "available": "Open to exciting opportunities in electrical engineering and embedded systems.",
+    "sendBtn": "Send Message",
+    "placeholders": {
+      "name": "Your name",
+      "email": "Your email",
+      "message": "Your message"
+    }
+  },
+  "footer": "All rights reserved."
+}

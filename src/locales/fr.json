@@ -1,0 +1,26 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "about": "À propos",
+    "projects": "Projets",
+    "cv": "CV",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Saber Bajjou",
+    "subtitle": "Ingénieur Generaliste en specialite genie electrique",
+    "contactBtn": "Me contacter",
+    "projectsBtn": "Voir mes projets"
+  },
+  "contact": {
+    "title": "Contactez-moi",
+    "available": "Disponible pour des opportunités passionnantes en électrotechnique et systèmes embarqués.",
+    "sendBtn": "Envoyer le message",
+    "placeholders": {
+      "name": "Votre nom",
+      "email": "Votre email",
+      "message": "Votre message"
+    }
+  },
+  "footer": "Tous droits réservés."
+}
